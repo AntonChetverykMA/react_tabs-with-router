@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_tabs-with-router/static/css/main.2862094a.chunk.css",
+    "main.js": "/react_tabs-with-router/static/js/main.45b4accd.chunk.js",
+    "main.js.map": "/react_tabs-with-router/static/js/main.45b4accd.chunk.js.map",
+    "runtime-main.js": "/react_tabs-with-router/static/js/runtime-main.90b2c16e.js",
+    "runtime-main.js.map": "/react_tabs-with-router/static/js/runtime-main.90b2c16e.js.map",
+    "static/js/2.0f447218.chunk.js": "/react_tabs-with-router/static/js/2.0f447218.chunk.js",
+    "static/js/2.0f447218.chunk.js.map": "/react_tabs-with-router/static/js/2.0f447218.chunk.js.map",
+    "index.html": "/react_tabs-with-router/index.html",
+    "precache-manifest.74937b4758e523decedfd0ffd55e8c5a.js": "/react_tabs-with-router/precache-manifest.74937b4758e523decedfd0ffd55e8c5a.js",
+    "service-worker.js": "/react_tabs-with-router/service-worker.js",
+    "static/css/main.2862094a.chunk.css.map": "/react_tabs-with-router/static/css/main.2862094a.chunk.css.map",
+    "static/js/2.0f447218.chunk.js.LICENSE.txt": "/react_tabs-with-router/static/js/2.0f447218.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90b2c16e.js",
+    "static/js/2.0f447218.chunk.js",
+    "static/css/main.2862094a.chunk.css",
+    "static/js/main.45b4accd.chunk.js"
+  ]
+}
